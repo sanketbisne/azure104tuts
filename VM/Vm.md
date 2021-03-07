@@ -49,18 +49,6 @@ Type -> Virtual Machine
 
 
 
-
--------------------
-![Screenshot (526)](https://user-images.githubusercontent.com/38061560/110243034-b5f0dc00-7f7e-11eb-98c9-c8bdf0708a37.png)
-![Screenshot (527)](https://user-images.githubusercontent.com/38061560/110243036-b8533600-7f7e-11eb-8f06-97de986973d2.png)
-
---------------------------
-
-
-
-
-
-
 You can also Create VM without using GUI by simplying installing Azure CLI or Right in your Cloud shell
 
 
@@ -129,25 +117,29 @@ Network interface
 
 ![Screenshot (513)](https://user-images.githubusercontent.com/38061560/110243069-d6b93180-7f7e-11eb-801b-acf5782fce51.png)
 
-Leave setting Default
 
-We can also Add a script to install Apache . Nginx webserver , etc in the text box
 
 
 ![Screenshot (514)](https://user-images.githubusercontent.com/38061560/110243070-d882f500-7f7e-11eb-8a3c-f6fd1b771a01.png)
 
+
+Leave setting Default
+
+We can also Add a script to install Apache . Nginx webserver , etc in the text box
 Tags
+
+
+![Screenshot (515)](https://user-images.githubusercontent.com/38061560/110243073-dae54f00-7f7e-11eb-8758-8e389a12d514.png)
+
 
 To name Your VM we can add Tags to it
 
 Name : Windows SERVER
-![Screenshot (515)](https://user-images.githubusercontent.com/38061560/110243073-dae54f00-7f7e-11eb-8758-8e389a12d514.png)
 
-Click on Review + Create
 ![Screenshot (516)](https://user-images.githubusercontent.com/38061560/110243076-dd47a900-7f7e-11eb-84f8-a3761bd078cf.png)
 
 Azure will charge your VM Per Hr basis
-
+Click on Review + Create
 
 ![Screenshot (517)](https://user-images.githubusercontent.com/38061560/110243078-de78d600-7f7e-11eb-81ad-750722c46079.png)
 
@@ -155,7 +147,7 @@ Review before actual deployment
 
 ![Screenshot (518)](https://user-images.githubusercontent.com/38061560/110243080-e0429980-7f7e-11eb-9fdd-df50b35e90f4.png)
 
-Your Deployment is Complete
+Your Deployment is in progress
 
 
 ![Screenshot (519)](https://user-images.githubusercontent.com/38061560/110243081-e2a4f380-7f7e-11eb-8611-bffe6d34173a.png)
@@ -163,17 +155,32 @@ Your Deployment is Complete
 
 Go to Resource Group and we will able to see the Status of Your Virtual machine
 
+Your Deployment is Complete
 
 ![Screenshot (520)](https://user-images.githubusercontent.com/38061560/110243083-e46eb700-7f7e-11eb-9352-46f0a127575a.png)
 
+Copy Your IP address
+
+Go to the Windows Remote Desktop
 
 ![Screenshot (521)](https://user-images.githubusercontent.com/38061560/110243086-e6387a80-7f7e-11eb-99cb-6b5773a67caa.png)
+
+
+You will be Prompted to See the Credential page 
+Add Username and Password
+
+
 ![Screenshot (522)](https://user-images.githubusercontent.com/38061560/110243090-e89ad480-7f7e-11eb-8b7b-69cfb2f7cf0e.png)
 ![Screenshot (523)](https://user-images.githubusercontent.com/38061560/110243096-edf81f00-7f7e-11eb-985b-59eeaf5f1508.png)
 ![Screenshot (524)](https://user-images.githubusercontent.com/38061560/110243100-f18ba600-7f7e-11eb-93ef-2146d5579f3a.png)
 ![Screenshot (525)](https://user-images.githubusercontent.com/38061560/110243102-f3556980-7f7e-11eb-94ac-8c181e8ddbd3.png)
 
 
+![Screenshot (527)](https://user-images.githubusercontent.com/38061560/110243036-b8533600-7f7e-11eb-8f06-97de986973d2.png)
+
+![Screenshot (526)](https://user-images.githubusercontent.com/38061560/110243034-b5f0dc00-7f7e-11eb-98c9-c8bdf0708a37.png)
+
+Thanks 
 
 
 
