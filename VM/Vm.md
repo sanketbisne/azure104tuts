@@ -171,10 +171,15 @@ Add Username and Password
 
 
 ![Screenshot (522)](https://user-images.githubusercontent.com/38061560/110243090-e89ad480-7f7e-11eb-8b7b-69cfb2f7cf0e.png)
+
+Login to RDP 
 ![Screenshot (523)](https://user-images.githubusercontent.com/38061560/110243096-edf81f00-7f7e-11eb-985b-59eeaf5f1508.png)
+
+Do some Work and then after successfully completion of work Disconnect the session
 ![Screenshot (524)](https://user-images.githubusercontent.com/38061560/110243100-f18ba600-7f7e-11eb-93ef-2146d5579f3a.png)
 ![Screenshot (525)](https://user-images.githubusercontent.com/38061560/110243102-f3556980-7f7e-11eb-94ac-8c181e8ddbd3.png)
 
+Go to Virtual Machine and Disconnect  Delete all Resources Associated with it
 
 ![Screenshot (527)](https://user-images.githubusercontent.com/38061560/110243036-b8533600-7f7e-11eb-8f06-97de986973d2.png)
 
