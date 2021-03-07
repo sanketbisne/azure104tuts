@@ -170,8 +170,6 @@ You will be Prompted to See the Credential page
 Add Username and Password
 
 
-![Screenshot (522)](https://user-images.githubusercontent.com/38061560/110243090-e89ad480-7f7e-11eb-8b7b-69cfb2f7cf0e.png)
-
 Login to RDP 
 ![Screenshot (523)](https://user-images.githubusercontent.com/38061560/110243096-edf81f00-7f7e-11eb-985b-59eeaf5f1508.png)
 
