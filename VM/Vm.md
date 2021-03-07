@@ -110,18 +110,63 @@ Enter Password
 
 ![Screenshot (510)](https://user-images.githubusercontent.com/38061560/110243060-cd2fc980-7f7e-11eb-9e66-7ce4c0e6f7fe.png)
 
+Disks
 
+Now Choose among the 3 Disks as per requirement 
+I have taken Standard HDD for minimum IOPS Workloads
+
+Leave all Default
 
 ![Screenshot (511)](https://user-images.githubusercontent.com/38061560/110243065-d3be4100-7f7e-11eb-84ae-69fdbaa05e58.png)
+
+Network interface
+
+- Choose Vnet -> Default or we can create a new
+- Allow Port (RDP) / http / https
+
 ![Screenshot (512)](https://user-images.githubusercontent.com/38061560/110243067-d4ef6e00-7f7e-11eb-8c48-af8644ee9e91.png)
+
+
 ![Screenshot (513)](https://user-images.githubusercontent.com/38061560/110243069-d6b93180-7f7e-11eb-801b-acf5782fce51.png)
+
+Leave setting Default
+
+We can also Add a script to install Apache . Nginx webserver , etc in the text box
+
+
 ![Screenshot (514)](https://user-images.githubusercontent.com/38061560/110243070-d882f500-7f7e-11eb-8a3c-f6fd1b771a01.png)
+
+Tags
+
+To name Your VM we can add Tags to it
+
+Name : Windows SERVER
 ![Screenshot (515)](https://user-images.githubusercontent.com/38061560/110243073-dae54f00-7f7e-11eb-8758-8e389a12d514.png)
+
+Click on Review + Create
 ![Screenshot (516)](https://user-images.githubusercontent.com/38061560/110243076-dd47a900-7f7e-11eb-84f8-a3761bd078cf.png)
+
+Azure will charge your VM Per Hr basis
+
+
 ![Screenshot (517)](https://user-images.githubusercontent.com/38061560/110243078-de78d600-7f7e-11eb-81ad-750722c46079.png)
+
+Review before actual deployment
+
 ![Screenshot (518)](https://user-images.githubusercontent.com/38061560/110243080-e0429980-7f7e-11eb-9fdd-df50b35e90f4.png)
+
+Your Deployment is Complete
+
+
 ![Screenshot (519)](https://user-images.githubusercontent.com/38061560/110243081-e2a4f380-7f7e-11eb-8611-bffe6d34173a.png)
+
+
+Go to Resource Group and we will able to see the Status of Your Virtual machine
+
+
 ![Screenshot (520)](https://user-images.githubusercontent.com/38061560/110243083-e46eb700-7f7e-11eb-9352-46f0a127575a.png)
+
+
 ![Screenshot (521)](https://user-images.githubusercontent.com/38061560/110243086-e6387a80-7f7e-11eb-99cb-6b5773a67caa.png)
 ![Screenshot (522)](https://user-images.githubusercontent.com/38061560/110243090-e89ad480-7f7e-11eb-8b7b-69cfb2f7cf0e.png)
 ![Screenshot (523)](https://user-images.githubusercontent.com/38061560/110243096-edf81f00-7f7e-11eb-985b-59eeaf5f1508.png)
