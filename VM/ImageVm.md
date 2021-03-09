@@ -39,8 +39,31 @@ Step 3 . The image is Created under Image section (all Services)
 
 The VM will stop when image is been created
 
-Step 4 .  Create the Virtual machine from image and Stop the previous VM (and deallocate it)
+![Screenshot (552)](https://user-images.githubusercontent.com/38061560/110421026-a37fbb00-80c2-11eb-8585-eead086b05db.png)
 
+
+Step 4 .  Create the Virtual machine from image and Stop the previous VM (and deallocate it)
+Destroy the Virtual Machine
+
+
+![Screenshot (553)](https://user-images.githubusercontent.com/38061560/110428765-d8ded580-80cf-11eb-9ea1-815d1798880e.png)
+
+
+Now go to  ResourceGroups
+
+Select 15.35.0 (myGallery/Image1/15.35.0)
+
+Create A new Virtual Machine inside it 
+
+![Screenshot (555)](https://user-images.githubusercontent.com/38061560/110429112-733f1900-80d0-11eb-8249-83c45f398142.png)
+
+Now We can see the File we created previously is now been backed up inside our VM and the Temporary Disk Data has been Deleted
+
+Permanentfile is OK
+![Screenshot (556)](https://user-images.githubusercontent.com/38061560/110429117-74704600-80d0-11eb-8fc5-bfbda500fff5.png)
+
+Temp File is Automatically Deleted
+![Screenshot (557)](https://user-images.githubusercontent.com/38061560/110429127-76d2a000-80d0-11eb-87a1-691b458c30b4.png)
 
 The  New Server has the previous data .
 
@@ -50,5 +73,5 @@ except the temporary Disk Data in which data is lost.
 
 In this way we can create a image from Vm.
 
-thanks For Your time.
+Thanks For Your time.
 
